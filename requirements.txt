@@ -2,5 +2,7 @@ streamlit
 requests
 SpeechRecognition
 pyttsx3
+pyaudio
+portaudio
 python-dotenv
 google-generativeai
